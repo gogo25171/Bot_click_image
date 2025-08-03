@@ -1,0 +1,10 @@
+# Configuration du bot de détection d'images
+# Seuil de confiance pour la détection d'images (entre 0.0 et 1.0)
+# Plus la valeur est élevée, plus la détection sera stricte
+SEUIL_CONFIANCE=0.8
+
+# Délai entre chaque scan en secondes
+DELAI_SCAN=1.0
+
+# Activer/désactiver le mode debug (True/False)
+MODE_DEBUG=True
