@@ -1,0 +1,18 @@
+# Requirements pour le Bot de Détection et Clic d'Images
+# Installez avec : pip install -r requirements.txt
+
+# Traitement d'images et vision par ordinateur
+opencv-python==4.10.0.84
+
+# Automatisation de l'interface utilisateur (capture d'écran et clic)
+pyautogui==0.9.54
+
+# Calculs numériques et manipulation de tableaux
+numpy==1.26.4
+
+# Support d'images supplémentaire
+Pillow==10.4.0
+
+# Dépendances optionnelles pour de meilleures performances
+# matplotlib==3.8.4  # Pour visualiser les résultats de détection (optionnel)
+# scipy==1.13.1      # Pour des algorithmes de traitement d'images avancés (optionnel)
